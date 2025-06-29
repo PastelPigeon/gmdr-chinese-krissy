@@ -4,15 +4,22 @@
     {
       "chapterID": 0,
       "packName": "DR主程序汉化",
-      "version": 28,
+      "version": 622,
       "background": "https://tse1-mm.cn.bing.net/th?id=OIF-C.w4CYGX7Mt%2fA6jxYhfqVPjg&rs=1&pid=ImgDetMain&cb=idpwebpc1",
       "downloadURL": "https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/source/main.zip"
     },
     {
       "chapterID": 3,
       "packName": "第三章汉化",
-      "version": 28,
+      "version": 622,
       "background": "https://tse3-mm.cn.bing.net/th?id=OIF-C.twbPTciYulOyFsXY%2fbK8ow&rs=1&pid=ImgDetMain&cb=idpwebpc1",
+      "downloadURL": "https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/source/chapter3.zip"
+    },
+    {
+      "chapterID": 4,
+      "packName": "第四章汉化",
+      "version": 622,
+      "background": "https://deltarune.com/assets/images/update2022-dr-ch4-rainy.gif",
       "downloadURL": "https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/source/chapter3.zip"
     }
   ]
