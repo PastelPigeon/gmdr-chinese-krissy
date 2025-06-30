@@ -43,6 +43,12 @@ if (-not (Test-Path -Path $patchFile -PathType Leaf)) {
 if ($CreateBackup) {
     try {
         Copy-Item -Path $dataWinPath -Destination $backupPath -Force
+        $langPath = Join-Path -Path $chapterPath -ChildPath "lang"
+        $langPathBackup = Join-Path -Path $chapterPath -ChildPath "lang.bak"
+        $vidPath = Join-Path -Path $chapterPath -ChildPath "vid"
+        $vidPathBackup = Join-Path -Path $chapterPath -ChildPath "vid.bak"
+        Copy-Item -Path $langPath -Destination $langPathBackup -Recurse
+        Copy-Item -Path $vidPath -Destination $vidPathBackup -Recurse
         Write-Host "已创建备份: $backupPath"
     }
     catch {
