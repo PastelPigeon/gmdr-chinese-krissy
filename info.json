@@ -13,14 +13,14 @@
       "packName": "第三章汉化",
       "version": 629,
       "background": "https://tse3-mm.cn.bing.net/th?id=OIF-C.twbPTciYulOyFsXY%2fbK8ow&rs=1&pid=ImgDetMain&cb=idpwebpc1",
-      "downloadURL": "https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0629/chapter3.zip"
+      "downloadURL": "https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0629_krissy_v1.2/chapter3.zip"
     },
     {
       "chapterID": 4,
       "packName": "第四章汉化",
       "version": 629,
       "background": "https://deltarune.com/assets/images/update2022-dr-ch4-rainy.gif",
-      "downloadURL": "https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0629/chapter4.zip"
+      "downloadURL": "https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0629_krissy_v1.2/chapter4.zip"
     }
   ]
 }
