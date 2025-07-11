@@ -4,9 +4,9 @@
     {
       "chapterID": 0,
       "packName": "DR主程序汉化",
-      "version": 629,
+      "version": 708,
       "background": "https://tse1-mm.cn.bing.net/th?id=OIF-C.w4CYGX7Mt%2fA6jxYhfqVPjg&rs=1&pid=ImgDetMain&cb=idpwebpc1",
-      "downloadURL": "https://gh.llkk.cc/https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0629_krissy_v1.2/main.zip",
+      "downloadURL": "https://gh.llkk.cc/https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0708_krissy_v1.2/main.zip",
       "backupsInfo": [
         {
           "patched": "/data.win",
@@ -17,9 +17,9 @@
     {
       "chapterID": 3,
       "packName": "第三章汉化",
-      "version": 629,
+      "version": 708,
       "background": "https://tse3-mm.cn.bing.net/th?id=OIF-C.twbPTciYulOyFsXY%2fbK8ow&rs=1&pid=ImgDetMain&cb=idpwebpc1",
-      "downloadURL": "https://gh.llkk.cc/https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0629_krissy_v1.2/chapter3.zip",
+      "downloadURL": "https://gh.llkk.cc/https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0708_krissy_v1.2/chapter3.zip",
       "backupsInfo": [
         {
           "patched": "/chapter3_windows/data.win",
@@ -38,9 +38,9 @@
     {
       "chapterID": 4,
       "packName": "第四章汉化",
-      "version": 629,
+      "version": 708,
       "background": "https://deltarune.com/assets/images/update2022-dr-ch4-rainy.gif",
-      "downloadURL": "https://gh.llkk.cc/https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0629_krissy_v1.2/chapter4.zip",
+      "downloadURL": "https://gh.llkk.cc/https://github.com/PastelPigeon/gmdr-chinese-krissy/releases/download/build_v0708_krissy_v1.2/chapter4.zip",
       "backupsInfo": [
         {
           "patched": "/chapter4_windows/data.win",
